@@ -1,0 +1,6 @@
+{
+  "name": "Aure - Assistant d'Auriane",
+  "description": "Assistant virtuel interactif pour présenter le parcours de marketing et de communication d'Auriane Remacle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
